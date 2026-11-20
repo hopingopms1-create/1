@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "gemminer",
+    "name": "GemMiner",
+    "description": "Register-based auto miner with waypoints and AOTV hops",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["You"]
+  }
+]
